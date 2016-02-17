@@ -1,2 +1,2 @@
 # Info498fGroupAwesome
-My second fav candy is Sour Skittles
+My favorite food is ramen always.
