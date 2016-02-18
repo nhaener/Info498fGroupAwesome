@@ -6,3 +6,6 @@ OK i took out all of the turtles and apparently bonzai trees are expensive even 
 
 Christopher's Paragraph
 Freshman, intended info major. Interests include volunteering, reading, and cooking. 
+
+## Warren's edit
+A little bit about me: I think collaborative work on GitHub is great! :)
